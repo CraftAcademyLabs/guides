@@ -220,9 +220,9 @@ CSS
 * Document the project's CSS architecture in the README, including things
   such as:
   * Organization of stylesheet directories and Sass partials
-  * Selector naming
+  * Selector naming convention
+  * Code linting tools and configuration
   * Browser support
-  * Code linting
 * Use Sass.
 * Use [Autoprefixer][autoprefixer] to generate vendor prefixes based on the
   project-specific browser support that is needed.
