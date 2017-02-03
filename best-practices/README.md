@@ -217,8 +217,8 @@ HTML
 CSS
 ---
 
-* Document the project's CSS architecture in the README, including things
-  such as:
+* Document the project's CSS architecture (the README, component library or
+  style guide are good places to do this), including things such as:
   * Organization of stylesheet directories and Sass partials
   * Selector naming convention
   * Code linting tools and configuration
